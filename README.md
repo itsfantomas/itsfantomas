@@ -8,6 +8,7 @@ I build production-grade web applications, robust local AI proxies, and automate
 ## 🛠️ Technical Stack & Tools
 
 ### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React_18/19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,18 +29,16 @@ I build production-grade web applications, robust local AI proxies, and automate
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfantomas&show_icons=true&theme=tokyonight&count_private=true" alt="itsfantomas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfantomas&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsfantomas&show_icons=true&theme=tokyonight" alt="itsfantomas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsfantomas&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfantomas&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=itsfantomas&theme=tokyonight" alt="GitHub Streak" width="44%" />
+  <img src="https://leetcard.jacoblin.cool/itsfantomas?theme=dark&font=Nunito" alt="LeetCode Stats" width="43%"/>
 </p>
 
 --- 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/itsfantomas?theme=dark&font=Nunito" alt="LeetCode Stats" />
-</p>
+
