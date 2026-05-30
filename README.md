@@ -28,6 +28,15 @@ Based in Warsaw 🇵🇱 · EU work auth · ships from scratch to deployment.
 - **Browser:** Chrome Extensions (MV3), Tampermonkey, Fetch/XHR interception, Iframe sandboxing
 - **Data:** Binary manipulation (PNG tEXt + CRC32), SSE stream-wrapping, JSONL pipelines for RAG
 
+### 🔍 Security Research
+![Security Research](https://img.shields.io/badge/Security_Research-232323?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+- **Malware Analysis:** Identified and documented live malware samples in the wild — 
+  eval()-based droppers, Base64 payloads hidden in SVG flag files, postinstall script attacks
+- **Static Code Auditing:** Startup file analysis, obfuscated dependency tracing, 
+  undocumented outbound request detection
+- **Reverse Engineering:** Auth flow reconstruction, client-side protocol analysis, 
+  undocumented API mapping
+  
 ---
 
 ## 📚 Currently Learning
